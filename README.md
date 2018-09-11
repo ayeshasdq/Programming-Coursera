@@ -21,7 +21,6 @@ a$getMatrix();
 
 cacheSolve(a)
 
-
 # the 2nd time we run the function, we get the cached value
 cacheSolve(a)
 #> getting cached data
